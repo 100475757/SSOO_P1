@@ -24,6 +24,6 @@ Para compilar estos programas se debe hacer uso de `gcc`. Para compilar cada uno
 
 Para ejecutar estos programas se debe escribir lo siguiente en la terminal:
 
-1. **myishere.c**: ./myishere <nombre del directorio> <nombre del fichero>
+1. **myishere.c**: ./myishere **<nombre del directorio> <nombre del fichero>**
 2. **mywc.c**: ./mywc <nombre del fichero>
 3. **myls.c**: ./myls <nombre del directorio> ó ./myls (esto último lista los archivos en el directorio actual)
